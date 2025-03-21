@@ -1,0 +1,34 @@
+
+datasets
+faiss-cpu
+langchain
+nemo_toolkit[asr]==2.1.0
+numpy==1.26.4
+openai
+pydub
+sentence-transformers
+torch
+torchaudio
+transformers
+
+
+# Core libraries
+numpy==1.26.4
+torch
+torchaudio
+
+# ASR toolkit
+nemo_toolkit[asr]==2.1.0
+
+# NLP and embeddings
+transformers
+sentence-transformers
+langchain
+openai
+datasets
+
+# Vector search
+faiss-cpu
+
+# Audio processing
+pydub
