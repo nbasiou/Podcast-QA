@@ -33,7 +33,8 @@ You need to provide the podcast audio file(s) for processing.
 The models included are intended for demonstration purposes only. Feel free to experiment with alternative models that better suit your specific needs.
 
 ## References
-[Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100)
-[THE FAISS LIBRARY](https://arxiv.org/pdf/2401.08281v2)
+1. [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100)
+
+2. [THE FAISS LIBRARY](https://arxiv.org/pdf/2401.08281v2)
 
 
